@@ -1,0 +1,3 @@
+add_compile_options(/arch:AVX2)
+add_compile_definitions(__SSE__ __SSE2__ __SSE3__ __SSSE3__ __SSE4_1__ __SSE4_2__ __AVX__ __AVX2__ __FMA__)
+
